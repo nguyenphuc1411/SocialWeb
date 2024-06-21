@@ -5,6 +5,62 @@
     {
       "AbsoluteMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|d:\\hoctap\\social\\socialweb\\social_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|solutionrelative:social_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|d:\\hoctap\\social\\socialweb\\social_api\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|solutionrelative:social_api\\models\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|d:\\hoctap\\social\\socialweb\\social_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|solutionrelative:social_api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|d:\\hoctap\\social\\socialweb\\social_api\\viewmodels\\tokenvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|solutionrelative:social_api\\viewmodels\\tokenvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|d:\\hoctap\\social\\socialweb\\social_api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|solutionrelative:social_api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|d:\\hoctap\\social\\socialweb\\social_api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|solutionrelative:social_api\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|d:\\hoctap\\social\\socialweb\\social_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|solutionrelative:social_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|d:\\hoctap\\social\\socialweb\\social_api\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|solutionrelative:social_api\\models\\follow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|d:\\hoctap\\social\\socialweb\\social_api\\models\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|solutionrelative:social_api\\models\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|d:\\hoctap\\social\\socialweb\\social_api\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|solutionrelative:social_api\\models\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|d:\\hoctap\\social\\socialweb\\social_api\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|solutionrelative:social_api\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|d:\\hoctap\\social\\socialweb\\social_api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|solutionrelative:social_api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|d:\\hoctap\\social\\socialweb\\social_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|solutionrelative:social_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|d:\\hoctap\\social\\socialweb\\social_api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|solutionrelative:social_api\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|d:\\hoctap\\social\\socialweb\\social_api\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{746EF0B0-7E44-4831-A3F6-89CE86F92885}|Social_API\\Social_API.csproj|solutionrelative:social_api\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +70,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Social_API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Social_API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAIA5wDMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:52:16.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Models\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Social_API\\Models\\RefreshToken.cs",
+              "ToolTip": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Models\\RefreshToken.cs",
+              "RelativeToolTip": "Social_API\\Models\\RefreshToken.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:05:33.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Block.cs",
+              "DocumentMoniker": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Models\\Block.cs",
+              "RelativeDocumentMoniker": "Social_API\\Models\\Block.cs",
+              "ToolTip": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Models\\Block.cs",
+              "RelativeToolTip": "Social_API\\Models\\Block.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:37:19.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Post.cs",
+              "DocumentMoniker": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Social_API\\Models\\Post.cs",
+              "ToolTip": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Models\\Post.cs",
+              "RelativeToolTip": "Social_API\\Models\\Post.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:29:18.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Like.cs",
+              "DocumentMoniker": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Models\\Like.cs",
+              "RelativeDocumentMoniker": "Social_API\\Models\\Like.cs",
+              "ToolTip": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Models\\Like.cs",
+              "RelativeToolTip": "Social_API\\Models\\Like.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:29:12.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Follow.cs",
+              "DocumentMoniker": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Models\\Follow.cs",
+              "RelativeDocumentMoniker": "Social_API\\Models\\Follow.cs",
+              "ToolTip": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Models\\Follow.cs",
+              "RelativeToolTip": "Social_API\\Models\\Follow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:29:10.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Social_API\\Models\\User.cs",
+              "ToolTip": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Models\\User.cs",
+              "RelativeToolTip": "Social_API\\Models\\User.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:39:51.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Social_API\\Services\\AuthService.cs",
+              "ToolTip": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Services\\AuthService.cs",
+              "RelativeToolTip": "Social_API\\Services\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:51:19.065Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +184,87 @@
               "RelativeDocumentMoniker": "Social_API\\Program.cs",
               "ToolTip": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Program.cs",
               "RelativeToolTip": "Social_API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAXAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAArwCsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T14:41:57.439Z",
+              "WhenOpened": "2024-06-21T12:39:46.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenVM.cs",
+              "DocumentMoniker": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\ViewModels\\TokenVM.cs",
+              "RelativeDocumentMoniker": "Social_API\\ViewModels\\TokenVM.cs",
+              "ToolTip": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\ViewModels\\TokenVM.cs",
+              "RelativeToolTip": "Social_API\\ViewModels\\TokenVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T14:13:17.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Social_API\\Context\\AppDbContext.cs",
+              "ToolTip": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Social_API\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:40:44.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Social_API\\appsettings.json",
+              "ToolTip": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\appsettings.json",
+              "RelativeToolTip": "Social_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-21T12:44:59.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Social_API\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Social_API\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:51:11.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "Social_API\\Models\\Comment.cs",
+              "ToolTip": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\Models\\Comment.cs",
+              "RelativeToolTip": "Social_API\\Models\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:40:30.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Social_API\\ViewModels\\LoginVM.cs",
+              "ToolTip": "D:\\HocTap\\Social\\SocialWeb\\Social_API\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "Social_API\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T12:55:59.734Z",
               "EditorCaption": ""
             }
           ]
